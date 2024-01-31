@@ -1,2 +1,3 @@
-# My-Amozon-clone
-This repo is based on my front end development journey. In this repo I am making original amazone.com clone by using HTML and CSS.
+# My-Amazon-Clone
+I have completed this project.My-Amazon-clone have completed.I made this project by using HTML and CSS.
+Happy Coding.
