@@ -141,7 +141,7 @@ span{
 }
 /** hero-Section **/
 .hero-section{
-    background-image: url("images/hero_image.jpg");
+    background-image: url("/images/71VBt4eTg3L._SX3000_.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -260,6 +260,22 @@ ul a{
     padding-top: 5px; 
 }
    
+
+
+@media  screen and (max-width:474px) {
+
+    .navbar{
+        width: 100%;
+        height: 40px;
+    }
+
+    .nav-logo{
+        height: 30px;
+        width: auto;
+        
+    }
+
+}
 
 
 
